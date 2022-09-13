@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ nav{
+  background-color:black ;
+  color: aqua;
+  height: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+ }
+ul li{
+    display: inline-flex;
+    margin-left:20px;
+    padding-top: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+}

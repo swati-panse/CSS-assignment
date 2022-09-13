@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:black ;
+    color: aqua;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+   }
+  nav ul li{
+      display: inline-flex;
+      margin-left:20px;
+      padding-top: 10px;
+      font-size: 20px;
+      text-transform: capitalize;
+  }
+
+    .main{
+        margin-top: 20px;
+        margin-left: 20px;
+        background-color: yellow;
+        width: 50vh;
+        height: 80vh;
+    }
+    .main h2{
+        margin-left: 20px;
+        padding:20px;
+        text-transform: capitalize;
+    }
+ .main ul li{
+    margin-left:50px;
+    text-transform: capitalize;
+ }
